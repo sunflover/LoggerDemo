@@ -45,9 +45,15 @@ logger.TraceInfo("TraceInfo");
 执行结果：20160115142829.log文件内容如下
 
 Fatal	2016-01-15 14:28:29 logger.cpp:91	TraceFatal 1
+
 Error	2016-01-15 14:28:29 logger.cpp:123	TraceError sun
+
 Warning	2016-01-15 14:28:29 logger.cpp:155	TraceWarning
+
 Info	2016-01-15 14:28:29 logger.cpp:188	TraceInfo
+
 Fatal	2016-01-15 14:28:29 logger.cpp:91	TraceFatal 2
+
 Error	2016-01-15 14:28:29 logger.cpp:123	TraceError sun2
+
 */
